@@ -1,4 +1,4 @@
 #!/bin/sh
 
-echo "ffmpeg"
+echo "heroku-ffmpeg"
 exit 0
